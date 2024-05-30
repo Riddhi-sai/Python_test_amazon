@@ -19,6 +19,8 @@
 
 *Status:* Passed
 
+<img width="600" src="Public/1.jpg" />
+
 
 *Test Scenario 2 :* Filtering the search results
 
