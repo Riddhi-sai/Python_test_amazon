@@ -19,7 +19,8 @@
 
 *Status:* Passed
 
-<img width="600" src="Public/1.jpg" />
+<img width="600" src="public/1.jpg" />
+
 
 
 *Test Scenario 2 :* Filtering the search results
@@ -40,6 +41,9 @@
 
 *Status:* Passed
 
+<img width="600" src="public/2.jpg" />
+<img width="600" src="public/3.jpg" />
+<img width="600" src="public/4.jpg" />
 
 
 *Test Scenario 3 :* Adding a product to a shopping cart
@@ -59,6 +63,7 @@
 
 *Status:* Passed
 
+<img width="600" src="public/5.jpg" />
 
 
 *Test Scenario 4 :* Proceeding to Checkout
@@ -77,6 +82,9 @@
 
 *Status:* Passed
 
+<img width="600" src="public/6.jpg" />
+<img width="600" src="public/7.jpg" />
+<img width="600" src="public/8.jpg" />
 
 *Test Scenario 5 :* Filling out the personal detail and payment details.
  
@@ -95,4 +103,7 @@
 - Not able to detect the elements in the card details section as it is in the Shadow DOM structure. 
 
 *Status:* Failed
+<img width="600" src="public/9.jpg" />
+<img width="600" src="public/10.jpg" />
+<img width="600" src="public/11.jpg" />
 
